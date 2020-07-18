@@ -1,0 +1,20 @@
+Agenda:
+ what is git-hub -- source code managment 
+ Git GUI , Git-Bash
+ Git commands to learn
+ 
+  git config --global user.name "niteshjain007"
+  git config --global user.email nitesh.iiitm@gmail.com
+  
+  https://dzone.com/articles/top-20-git-commands-with-examples
+ 
+ Eclipse : project import + export
+ 
+ what is jenkins
+ install+configure 
+ 
+ job to run automation test suite
+ 
+ 
+ maven commands 
+ and practice 
